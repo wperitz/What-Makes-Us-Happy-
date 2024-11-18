@@ -6,8 +6,9 @@ We all strive to be happy, yet what drives our pursuit can vary widely from one 
 
 Through this project, I dive into two key dimensions that contribute to happiness:
 
-How We Treat Our Bodies: Physical activity and sleep patterns.
-How We Spend Our Time: Screen time, social media usage, and daily commutes.
+**How We Treat Our Bodies:** Physical activity and sleep patterns.
+**How We Spend Our Time:** Screen time, social media usage, and daily commutes.
+
 By examining these factors, the project reveals correlations and insights that connect individual habits and collective trends to happiness levels. Visual analysis reveals interesting contrasts- like the relationship between commute length and happiness— and identifies areas where personal and community metrics align or differ.
 
 This analysis is intended to inspire reflection on how our daily choices and habits shape our happiness, and demonstrate the power of visualizing data. The project's results provide a foundation for deeper conversations about what makes us happy.
